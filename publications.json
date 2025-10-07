@@ -1,0 +1,156 @@
+[
+  {
+    "title": "TabNAT: A Continous-Discrete Joint Generative Framework for Tabular Data",
+    "authors": ["Hengrui Zhang", "Liancheng Fang", "Qitian Wu", "Philip S Yu"],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": "2025",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "TabDiff: a Multi-Modal Diffusion Model for Tabular Data Generation",
+    "authors": ["Juntong Shi", "Minkai Xu", "Harper Hua", "Hengrui Zhang", "Stefano Ermon", "Jure Leskovec"],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": "2025",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Unleashing the Potential of Diffusion Models for Incomplete Data Imputation",
+    "authors": ["Hengrui Zhang", "Liancheng Fang", "Qitian Wu", "Philip S Yu"],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": "2025",
+    "tags": "Spotlight Presentation",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering",
+    "authors": ["Dongxiao He", "Lianze Shan", "Jitao Zhao", "Hengrui Zhang", "Zhen Wang", "Weixiong Zhang"],
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": "2024",
+    "tags": "Oral Presentation",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity",
+    "authors": ["Qitian Wu", "Kai Yang", "Hengrui Zhang", "David Wipf", "Junchi Yan"],
+    "venue": "arXiv preprint arXiv:2409.09007",
+    "year": "2024",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "InfoMLP: Unlocking the Potential of MLPs for Semi-Supervised Learning with Structured Data",
+    "authors": ["Hengrui Zhang", "Qitian Wu", "Chenxiao Yang", "Philip S Yu"],
+    "venue": "ACM International Conference on Information and Knowledge Management (CIKM)",
+    "year": "2024",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization",
+    "authors": ["Hengrui Zhang", "Shen Wang", "Vassilis N Ioannidis", "Soji Adeshina", "Jiani Zhang", "Xiao Qin", "Christos Faloutsos", "Da Zheng", "George Karypis", "Philip S Yu"],
+    "venue": "ACM International Conference on Information and Knowledge Management (CIKM)",
+    "year": "2024",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space",
+    "authors": ["Hengrui Zhang", "Jiani Zhang", "Balasubramaniam Srinivasan", "Zhengyuan Shen", "Xiao Qin", "Christos Faloutsos", "Huzefa Rangwala", "George Karypis"],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": "2024",
+    "tags": "Oral Presentation, top 1.2%",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Simplifying and Empowering Transformers for Large-Graph Representations",
+    "authors": ["Qitian Wu", "Wentao Zhao", "Chenxiao Yang", "Hengrui Zhang", "Fan Nie", "Haitian Jiang", "Yatao Bian", "Junchi Yan"],
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": "2023",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Exploiting Intent Evolution in E-commercial Query Recommendation",
+    "authors": ["Yu Wang", "Zhengyang Wang", "Hengrui Zhang", "Qingyu Yin", "Xianfeng Tang", "Yinghan Wang", "Danqing Zhang", "Limeng Cui", "Monica Cheng", "Bing Yin", "Suhang Wang", "Philip S. Yu"],
+    "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+    "year": "2023",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation",
+    "authors": ["Yu Wang", "Hengrui Zhang", "Zhiwei Liu", "Liangwei Yang", "Philip S. Yu"],
+    "venue": "ACM International Conference on Information and Knowledge Management (CIKM)",
+    "year": "2022",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning",
+    "authors": ["Shaofeng Zhang", "Meng Liu", "Junchi Yan", "Hengrui Zhang", "Lingxiao Huang", "Xiaokang Yang", "Pinyan Lu"],
+    "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+    "year": "2022",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Align Representations with Base: A New Approach to Self-Supervised Learning",
+    "authors": ["Shaofeng Zhang", "Lyn Qiu", "Feng Zhu", "Junchi Yan", "Hengrui Zhang", "Rui Zhao", "Hongyang Li", "Xiaokang Yang"],
+    "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2022",
+    "tags": "Self-supervised Representation Learning, Basis Decomposition.",
+    "code": "https://github.com/Sherrylone/Align_Representation_with_Base",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Handling distribution shifts on graphs: An invariance perspective",
+    "authors": ["Qitian Wu", "Hengrui Zhang", "Junchi Yan", "David Wipf"],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": "2022",
+    "tags": "Out-Of-Distribution, Graph Neural Networks.",
+    "link": "https://openreview.net/forum?id=FQOC5u-1egI",
+    "code": "https://github.com/qitianwu/GraphOOD-EERM",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "From Canonical Correlation Analysis to Self-supervised Graph Neural Networks",
+    "authors": ["Hengrui Zhang", "Qitian Wu", "Junchi Yan", "David Wipf", "Philip S. Yu"],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": "2021",
+    "tags": "Self-supervised Learning, Canonical Correlation Analysis.",
+    "link": "https://arxiv.org/abs/2106.12484",
+    "code": "https://github.com/hengruizhang98/CCA-SSG",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Towards Open-world Recommendation: An Inductive Model-based Collaborative Filtering Approach",
+    "authors": ["Qitian Wu", "Hengrui Zhang", "Xiaofeng Gao", "Junchi Yan", "Hongyuan Zha"],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": "2021",
+    "tags": "Inductive Collaborative Filtering, Recommender System.",
+    "link": "https://arxiv.org/abs/2007.04833",
+    "code": "https://github.com/qitianwu/IDCF",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Stacked Mixed-Order Graph Convolutional Networks for Collaborative Filtering",
+    "authors": ["Hengrui Zhang", "Julian McAuley"],
+    "venue": "SIAM Data Mining (SDM)",
+    "year": "2020",
+    "tags": "Collaborative Filtering, Graph Neural Network, High-order Connectivity.",
+    "link": "https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.9",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Eects in Recommender Systems",
+    "authors": ["Qitian Wu", "Hengrui Zhang", "Xiaofeng Gao", "Peng He", "Paul Weng", "Han Gao", "Guihai Chen"],
+    "venue": "The Web Conference (WWW)",
+    "year": "2019",
+    "tags": "Social Recommendation, Graph Attention Networks.",
+    "link": "https://arxiv.org/abs/1903.10433",
+    "code": "https://github.com/qitianwu/DANSER-WWW-19",
+    "highlightAuthor": "Hengrui Zhang"
+  },
+  {
+    "title": "Adversarial Training Model Unifying Feature Driven and Point Process Perspectives for Event Popularity Prediction",
+    "authors": ["Qitian Wu", "Chaoqi Yang", "Hengrui Zhang", "Xiaofeng Gao", "Paul Weng", "Guihai Chen"],
+    "venue": "The Conference on Information and Knowledge Management (CIKM)",
+    "year": "2018",
+    "tags": "Hawkes Process, Adversarial Training.",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3269206.3271714",
+    "highlightAuthor": "Hengrui Zhang"
+  }
+]
