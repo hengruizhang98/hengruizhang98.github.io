@@ -22,13 +22,16 @@ document.addEventListener('DOMContentLoaded', function() {
                         return `<strong>${author}</strong>`;
                     }
                     return author;
-                }).join(',&nbsp\n');
+                }).join(', ');
 
                 // Create venue and year
-                let venueHTML = `<em>${pub.venue}</em>,&nbsp${pub.year}.&nbsp`;
+                let venueHTML = `<em>${pub.venue}</em>, ${pub.year}.`;
 
-                // Create tags
-                let tagsHTML = `<font color="gray">${pub.tags}</font>`;
+                // Create tags if available
+                let tagsHTML = '';
+                if (pub.tags) {
+                    tagsHTML = `<br>\n<font color="gray">${pub.tags}</font>`;
+                }
 
                 // Create code link if available
                 let codeHTML = '';
@@ -43,7 +46,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     ${authorsHTML}
                     <br>
                     ${venueHTML}
-                    <br>
                     ${tagsHTML}
                     ${codeHTML}
                 `;
